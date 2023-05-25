@@ -31,5 +31,14 @@ Thank you for your attention, and I look forward to the opportunity for future c
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://jupyter.org/hub" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://jupyter.org/hub" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" /></a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software" width="36" height="36" alt="Tableau" /></a>
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" alt="tableau-software" width="36" height="36" alt="PowerBI" /></a>
+</p>
+
+---
+          
+### What I am currently learning:
+<p align="left">
+<a href="https://www.ibm.com/topics/machine-learning" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-machine-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-machine-coding-and-development-soft-fill-soft-fill-juicy-fish" width="36" height="36" alt="ML" /></a>
 </p>
